@@ -1,0 +1,28 @@
+{
+  "data":[
+    {
+      "id":"3",
+      "name":"green"
+    }
+  ],
+  "database":"test",
+  "es":1621583791000,
+  "id":28,
+  "isDdl":false,
+  "mysqlType":{
+    "id":"int(20)",
+    "name":"varchar(255)"
+  },
+  "old":null,
+  "pkNames":[
+    "id"
+  ],
+  "sql":"",
+  "sqlType":{
+    "id":4,
+    "name":12
+  },
+  "table":"cy_3",
+  "ts":1621583791098,
+  "type":"DELETE"
+}

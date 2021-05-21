@@ -1,0 +1,17 @@
+{
+  "data":null,
+  "database":"test",
+  "es":1621580991000,
+  "id":21,
+  "isDdl":true,
+  "mysqlType":null,
+  "old":null,
+  "pkNames":null,
+  "sql":"ALTER TABLE `test`.`cy_2`
+  MODIFY COLUMN `score` float(10, 2) NULL DEFAULT NULL AFTER `tag`,
+  MODIFY COLUMN `df` float(10, 2) NULL DEFAULT NULL AFTER `score`",
+  "sqlType":null,
+  "table":"cy_2",
+  "ts":1621580991952,
+  "type":"ALTER"
+}
